@@ -4,24 +4,24 @@
 
 
 ## 2.GuessTheFlag
-<img src="GuessTheFlag.png" width="50%" height="50%" alt="布局 渐变"/>
+<img src="GuessTheFlag.png" width="20%" height="20%" alt="布局 渐变"/>
 
 ## 3.BetterRest
-<img src="BetterRest.png" width="50%" height="50%" alt="图片描述文字"/>
+<img src="BetterRest.png" width="20%" height="20%" alt="图片描述文字"/>
 
 ## 4.WordScramble
-<img src="GuessTheFlag.png" width="50%" height="50%" alt="布局 渐变"/>
+<img src="GuessTheFlag.png" width="20%" height="20%" alt="布局 渐变"/>
 
 ## 5.GuestureAnimations
-<img src="GuessTheFlag.png" width="50%" height="50%" alt="睡眠时间计算"/>
+<img src="GuessTheFlag.png" width="20%" height="20%" alt="睡眠时间计算"/>
 
 ## 6.EditingList
-<img src="EditingList.png" width="50%" height="50%" alt="列表编辑"/>
+<img src="EditingList.png" width="20%" height="20%" alt="列表编辑"/>
 
 ## 7.iExpense
-<img src="iExpense.png" width="50%" height="50%" alt="数据持久化"/>
+<img src="iExpense.png" width="20%" height="20%" alt="数据持久化"/>
 
 ## 8.Moonshot
-<img src="2020-06-09-17.23.39.png" width="50%" height="50%" alt="航天事件"/>
+<img src="2020-06-09-17.23.39.png" width="20%" height="20%" alt="航天事件"/>
 
 
