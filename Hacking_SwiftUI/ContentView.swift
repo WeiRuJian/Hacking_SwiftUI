@@ -10,18 +10,18 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        //        StartSwiftUIView()
-        //        GuessTheFlagView()
-        //        BetterRestStart()
-        //        BetterRestView()
+        //                StartSwiftUIView()
+        //                GuessTheFlagView()
+        //                BetterRestStart()
+        //                BetterRestView()
         //        WordScrambleStart()
-        //        ListRowView()
-        //        WordScrambleView()
-        //        AnimationsStart()
-        //        GuestureAnimations()
-        //        EditingListView()
-        //        iExpenseView()
-                MoonshotView()
+        //                ListRowView()
+        //                WordScrambleView()
+        //                AnimationsStart()
+        //                GuestureAnimations()
+        //                EditingListView()
+        //                iExpenseView()
+        MoonshotView()
     }
 }
 
