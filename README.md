@@ -1,6 +1,6 @@
 # SwiftUI 学习
 ## 1.Start
-<img src="Start.png" width="50%" height="50%" alt="输入框 列表绑定使用"/>
+<img src="Start.png" width="20%" height="20%" alt="输入框 列表绑定使用"/>
 
 
 ## 2.GuessTheFlag
