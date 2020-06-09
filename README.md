@@ -1,26 +1,27 @@
 # SwiftUI 学习
 ## 1.Start
-![](Start.png) 
+<img src="Start.png" width="50%" height="50%" alt="输入框 列表绑定使用"/>
+
 
 ## 2.GuessTheFlag
-![](GuessTheFlag.png)
+<img src="GuessTheFlag.png" width="50%" height="50%" alt="布局 渐变"/>
 
 ## 3.BetterRest
-![](BetterRest.png) 
+<img src="BetterRest.png" width="50%" height="50%" alt="图片描述文字"/>
 
 ## 4.WordScramble
-![](WordScramble.png)
+<img src="GuessTheFlag.png" width="50%" height="50%" alt="布局 渐变"/>
 
 ## 5.GuestureAnimations
-![](GuestureAnimations.png)
+<img src="GuessTheFlag.png" width="50%" height="50%" alt="睡眠时间计算"/>
 
 ## 6.EditingList
-![](EditingList.png)
+<img src="EditingList.png" width="50%" height="50%" alt="列表编辑"/>
 
 ## 7.iExpense
-![](iExpense.png)
+<img src="iExpense.png" width="50%" height="50%" alt="数据持久化"/>
 
 ## 8.Moonshot
-![](2020-06-09-17.23.39.png)
+<img src="2020-06-09-17.23.39.png" width="50%" height="50%" alt="航天事件"/>
 
 
