@@ -22,7 +22,10 @@ struct ContentView: View {
         //                EditingListView()
         //                iExpenseView()
 //        MoonshotView()
-        DrawingFlowerView()
+//        DrawingFlowerView()
+//        AnimatablePairShapeView()
+//        SpirographView()
+        ArrowView()
     }
 }
 

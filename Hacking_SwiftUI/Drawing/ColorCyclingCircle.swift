@@ -14,7 +14,7 @@ struct ColorCyclingCircle: View {
     var body: some View {
         ZStack {
             ForEach(0..<steps) { value in
-                Circle()
+                Rectangle()
                     .inset(by: CGFloat(value))
                     .strokeBorder(self.color(for: value, brightness: 1), lineWidth: 2 )
             }

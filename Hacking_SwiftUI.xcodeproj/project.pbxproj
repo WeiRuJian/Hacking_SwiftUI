@@ -51,6 +51,10 @@
 		6274E01F2490DC3700FB969D /* CyclingCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6274E01E2490DC3700FB969D /* CyclingCircleView.swift */; };
 		6274E0212490E0D700FB969D /* MultiplyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6274E0202490E0D700FB969D /* MultiplyView.swift */; };
 		6274E0232490E3A600FB969D /* OverlappingCirclesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6274E0222490E3A600FB969D /* OverlappingCirclesView.swift */; };
+		629BF9B32491BDFE00220179 /* AnimatableDataShapeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 629BF9B22491BDFE00220179 /* AnimatableDataShapeView.swift */; };
+		629BF9B52491C35D00220179 /* AnimatablePairShapeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 629BF9B42491C35D00220179 /* AnimatablePairShapeView.swift */; };
+		629BF9B72491DB5A00220179 /* SpirographView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 629BF9B62491DB5A00220179 /* SpirographView.swift */; };
+		629BF9B92492190600220179 /* ArrowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 629BF9B82492190600220179 /* ArrowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -100,6 +104,10 @@
 		6274E01E2490DC3700FB969D /* CyclingCircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CyclingCircleView.swift; sourceTree = "<group>"; };
 		6274E0202490E0D700FB969D /* MultiplyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiplyView.swift; sourceTree = "<group>"; };
 		6274E0222490E3A600FB969D /* OverlappingCirclesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverlappingCirclesView.swift; sourceTree = "<group>"; };
+		629BF9B22491BDFE00220179 /* AnimatableDataShapeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatableDataShapeView.swift; sourceTree = "<group>"; };
+		629BF9B42491C35D00220179 /* AnimatablePairShapeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatablePairShapeView.swift; sourceTree = "<group>"; };
+		629BF9B62491DB5A00220179 /* SpirographView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpirographView.swift; sourceTree = "<group>"; };
+		629BF9B82492190600220179 /* ArrowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +140,7 @@
 		6233D961248F8BB40086DFF0 /* Hacking_SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				629BF9BA24921F5100220179 /* CupcakeCorner */,
 				6233D9BB248F950D0086DFF0 /* README.md */,
 				6233D970248F8BB60086DFF0 /* Info.plist */,
 				6233D962248F8BB40086DFF0 /* AppDelegate.swift */,
@@ -171,6 +180,10 @@
 				6274E01E2490DC3700FB969D /* CyclingCircleView.swift */,
 				6274E0202490E0D700FB969D /* MultiplyView.swift */,
 				6274E0222490E3A600FB969D /* OverlappingCirclesView.swift */,
+				629BF9B22491BDFE00220179 /* AnimatableDataShapeView.swift */,
+				629BF9B42491C35D00220179 /* AnimatablePairShapeView.swift */,
+				629BF9B62491DB5A00220179 /* SpirographView.swift */,
+				629BF9B82492190600220179 /* ArrowView.swift */,
 			);
 			path = Drawing;
 			sourceTree = "<group>";
@@ -261,6 +274,13 @@
 			path = Files;
 			sourceTree = "<group>";
 		};
+		629BF9BA24921F5100220179 /* CupcakeCorner */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = CupcakeCorner;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -337,6 +357,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6274E01B24908FD700FB969D /* ImageBackgroundView.swift in Sources */,
+				629BF9B72491DB5A00220179 /* SpirographView.swift in Sources */,
 				6233D9A8248F8BF70086DFF0 /* StartSwiftUIView.swift in Sources */,
 				6233D99F248F8BF70086DFF0 /* iExpenseView.swift in Sources */,
 				6233D9AA248F8BF70086DFF0 /* BetterRestStart.swift in Sources */,
@@ -347,11 +368,13 @@
 				6233D9C5248F95560086DFF0 /* ListRowView.swift in Sources */,
 				6233D9A3248F8BF70086DFF0 /* StructAndStateView.swift in Sources */,
 				6274E01D2490DA8500FB969D /* ColorCyclingCircle.swift in Sources */,
+				629BF9B92492190600220179 /* ArrowView.swift in Sources */,
 				6274E0192490855A00FB969D /* DrawingFlowerView.swift in Sources */,
 				6233D9A1248F8BF70086DFF0 /* ExpenseDetailView.swift in Sources */,
 				6274E017249081B300FB969D /* Flower.swift in Sources */,
 				6233D9B2248F8BF70086DFF0 /* MoonshotView.swift in Sources */,
 				6233D9C4248F95560086DFF0 /* WordScrambleStart.swift in Sources */,
+				629BF9B32491BDFE00220179 /* AnimatableDataShapeView.swift in Sources */,
 				6233D963248F8BB40086DFF0 /* AppDelegate.swift in Sources */,
 				6233D9B4248F8BF70086DFF0 /* AstronautView.swift in Sources */,
 				6274E0232490E3A600FB969D /* OverlappingCirclesView.swift in Sources */,
@@ -369,6 +392,7 @@
 				6233D9A9248F8BF70086DFF0 /* BetterRest.mlmodel in Sources */,
 				6233D9B5248F8BF70086DFF0 /* ImageGeomenView.swift in Sources */,
 				6233D99E248F8BF70086DFF0 /* EditingListView.swift in Sources */,
+				629BF9B52491C35D00220179 /* AnimatablePairShapeView.swift in Sources */,
 				6274E015249075BB00FB969D /* DrawingStartView.swift in Sources */,
 				6233D9AD248F8BF70086DFF0 /* CustomTitle.swift in Sources */,
 				6233D9AB248F8BF70086DFF0 /* BetterRestView.swift in Sources */,
